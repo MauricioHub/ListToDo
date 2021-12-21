@@ -13,3 +13,4 @@ C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug
 C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.dll
 C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ref\ListToDo.dll
 C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.pdb
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\View\TaskPage.xaml.g.cs
