@@ -9,7 +9,7 @@
         <Entry Text="{Binding Name}"></Entry>
         <Label Text="Descripcion"></Label>
         <Entry Text="{Binding Description}"></Entry>
-        <Label Text="DeadLine"></Label>
+        <Label Text="Fecha Final"></Label>
         <Entry Text="{Binding DeadLine}"></Entry>
         <Label Text="{Binding Name}"></Label>
         <Button Text="Guardar" Command="{Binding GuardarCommand}"></Button>

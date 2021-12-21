@@ -4,7 +4,7 @@
              x:Class="ListToDo.View.TaskPage">
     <ScrollView>
         <StackLayout>
-            <ListView x:Name="LvPersonas" ItemsSource="{Binding TaskList}">
+            <ListView x:Name="LvTask" ItemsSource="{Binding TaskList}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <TextCell Text="{Binding Name}" Detail="{Binding Description}">
