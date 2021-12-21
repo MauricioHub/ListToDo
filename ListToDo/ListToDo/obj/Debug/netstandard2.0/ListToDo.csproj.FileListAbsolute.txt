@@ -1,0 +1,15 @@
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\bin\Debug\netstandard2.0\ListToDo.deps.json
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\bin\Debug\netstandard2.0\ListToDo.dll
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\bin\Debug\netstandard2.0\ref\ListToDo.dll
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\bin\Debug\netstandard2.0\ListToDo.pdb
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.csproj.AssemblyReference.cache
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.AssemblyInfoInputs.cache
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.AssemblyInfo.cs
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.csproj.CoreCompileInputs.cache
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.dll
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ref\ListToDo.dll
+C:\Users\xavier\Documents\workspace-xamarin\ListToDo\ListToDo\ListToDo\obj\Debug\netstandard2.0\ListToDo.pdb
